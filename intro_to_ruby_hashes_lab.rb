@@ -9,7 +9,7 @@ countries_and_capitals_of_the_world = {
   :africa =>{
     "Ghana"=> {capital: "Accra", capital_climate: "Kőppen Aw"
   },
-    "Nigeria"=> {capital: "Abuja", capital_climate : "Kőppen Aw"
+    "Nigeria"=> {capital: "Abuja", capital_climate: "Kőppen Aw"
       }
   }
 }
