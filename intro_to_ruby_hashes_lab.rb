@@ -38,7 +38,7 @@ def monopoly_with_fourth_tier
   # they'll guide you in how to modify what you just did to have more
   # complexity.
    
-   :names => {
+  :names => {
   :reading_railroad => {"mortgage_value" => "$100"},
   :pennsylvania_railroad => {"mortgage_value" => "$200"},
   :b_and_o_railroad => {"mortgage_value" => "$400"},
