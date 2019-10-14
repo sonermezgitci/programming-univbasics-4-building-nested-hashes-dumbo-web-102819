@@ -3,7 +3,7 @@ countries_and_capitals_of_the_world = {
   :north_america => {
     "Canada"=>{capital: "Ottawa", capital_climate: "Kőppen Dfb"
      },
-    "USA" => {capital: "Washington D.C.", capital_climate: "Kőppen Cfa
+    "USA" => {capital: "Washington D.C.", capital_climate: "Kőppen Cfa"
        },
   },
   :africa =>{
