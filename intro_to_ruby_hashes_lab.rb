@@ -1,24 +1,18 @@
 def base_hash
 countries_and_capitals_of_the_world = {
   :north_america => {
-    "Canada"=>{capital: "Ottawa", capital_climate: "Kőppen Dfb"}
+    "Canada"=>{capital: "Ottawa", capital_climate: "Kőppen Dfb"
      },
     "USA" => {capital: "Washington D.C.", capital_climate: "Kőppen Cfa
        },
   },
- :africa => {
-    "Ghana" => {capital: "Accra",: capital_climate: "Kőppen Aw"
+  :africa =>{
+    "Ghana"=> {capital: "Accra", capital_climate: "Kőppen Aw"
   },
-    "Nigeria" => {capital: "Abuja", capital_climate : "Kőppen Aw"
+    "Nigeria"=> {capital: "Abuja", capital_climate : "Kőppen Aw"
       }
   }
 }
-  
-  
-  
-  
-  # Remember implicit return! We're returning this new Hash _without_ the
-  # keyword "return." Nice and neat.
 	{}
 end
 
