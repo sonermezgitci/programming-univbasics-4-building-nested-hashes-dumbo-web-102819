@@ -13,7 +13,7 @@ countries_and_capitals_of_the_world = {
       }
   }
 }
-	{}
+	
 end
 
 def monopoly_with_second_tier
